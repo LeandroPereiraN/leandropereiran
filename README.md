@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Leandro Pereira</h1>
-<h3 align="center">Desarrollador Web Full Stack</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="center">
   <a href="https://leandropereira.vercel.app" target="_blank">
@@ -17,37 +17,33 @@
 
 ## 👨‍💻 Acerca de mí
 
-Soy **Desarrollador Web Full Stack** con experiencia en **PHP, Laravel, MySQL, JavaScript, Vue, Nuxt y TypeScript**, especializado en el **desarrollo, mantenimiento y modernización de aplicaciones web a gran escala**.
+Soy **Desarrollador Full Stack** con experiencia profesional en el desarrollo, mantenimiento y modernización de aplicaciones web.
 
-Me caracterizo por:
-- Resolver **proyectos complejos**
-- Diseñar sistemas **escalables, modulares y mantenibles**
-- Mantener **alta calidad de código**
-- Aprender rápidamente a través de la práctica
+He trabajado liderando migraciones de frontend, diseñando APIs REST, implementando procesos automatizados con IA y participando en decisiones de arquitectura enfocadas en la escalabilidad y mantenibilidad de sistemas.
 
-Actualmente trabajo en **[Doná Fácil](https://donafacil.uy)**, participando activamente en la evolución de la plataforma.
+Disfruto construir software de calidad, comprender las necesidades del negocio y aprender continuamente nuevas tecnologías para resolver problemas reales.
+
+Actualmente me encuentro en búsqueda de nuevos desafíos profesionales mientras continúo desarrollando proyectos personales y profundizando mis conocimientos en arquitectura de software, DevOps e inteligencia artificial.
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### 🏢 Doná Fácil — Desarrollador Web Full Stack  
-**Mar. 2025 – Actualidad**
+### 🏢 Doná Fácil — Desarrollador Full Stack
+**Mar. 2025 – Mar. 2026**
 
-- Mantenimiento y evolución de una **plataforma web de gran escala** en **PHP y Laravel**
-- **Rediseño y migración del frontend legacy** hacia un stack moderno:
-  - Vue · Nuxt 4 · TailwindCSS · TypeScript · Zod
-- Re-arquitectura enfocada en **escalabilidad, modularidad y mantenibilidad**
-- Creación de **componentes reutilizables**
-- Configuración de entornos con:
-  - Docker · Apache
-  - CI/CD con GitHub Actions
-  - HTTPS con Certbot
-- Automatizaciones con **CRON**
-- Notificaciones por **WhatsApp (Meta / UltraMsg)** y correos con **Mailgun**
-- Sistema de permisos basado en **estructuras de árbol**
-- Despliegues y mantenimiento en **servidores Linux**
-- Desarrollo de APIs REST siguiendo **MVC**
+- Lideré la migración del frontend legacy hacia un stack moderno utilizando Vue, Nuxt 4, TypeScript y Tailwind CSS.
+- Participé en decisiones de arquitectura para modernizar la aplicación, priorizando la mantenibilidad y escalabilidad.
+- Diseñé e implementé APIs REST para integración con aplicaciones frontend y servicios externos.
+- Desarrollé una biblioteca con más de 50 componentes reutilizables para Nuxt 4.
+- Implementé procesos automatizados utilizando la API de OpenAI para incorporar funcionalidades de IA al producto.
+- Integré servicios externos como WhatsApp, Mailgun y tareas automatizadas mediante CRON.
+- Administré bases de datos MySQL realizando consultas, validaciones y mantenimiento de datos.
+- Implementé pipelines CI/CD utilizando GitHub Actions.
+- Configuré entornos de testing con Docker y Apache.
+- Participé en despliegues sobre servidores Linux.
+- Implementé certificados SSL utilizando Certbot.
+- Utilicé herramientas de IA como GitHub Copilot y ChatGPT para acelerar el desarrollo y mejorar la productividad.
 
 ---
 
@@ -109,11 +105,13 @@ Actualmente trabajo en **[Doná Fácil](https://donafacil.uy)**, participando ac
 
 ## 🤝 Soft Skills
 
-- Trabajo en equipo  
-- Resolución de problemas  
-- Pensamiento crítico  
-- Gestión del tiempo  
-- Adaptabilidad y aprendizaje continuo  
+- Aprendizaje continuo
+- Mentalidad de producto
+- Resolución de problemas
+- Trabajo en equipo
+- Pensamiento crítico
+- Comunicación efectiva
+- Adaptabilidad 
 
 ---
 
