@@ -5,7 +5,7 @@
   <a href="https://leapereira.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/leandropereiranobre/" target="_blank">
+  <a href="https://www.linkedin.com/in/leapereiradev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:contacto@leapereira.dev">
@@ -118,5 +118,5 @@ Actualmente me encuentro en búsqueda de nuevos desafíos profesionales mientras
 ## 📫 Contacto
 
 - 📧 **Email:** contacto@leapereira.dev  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/leandropereiranobre/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/leapereiradev/
 - 🌐 **Portfolio:** https://leapereira.dev
