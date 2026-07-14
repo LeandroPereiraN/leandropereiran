@@ -2,13 +2,13 @@
 <h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="center">
-  <a href="https://leandropereira.vercel.app" target="_blank">
+  <a href="https://leapereira.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/leandro-pereira-nobre/" target="_blank">
+  <a href="https://www.linkedin.com/in/leandropereiranobre/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:leandro.pereiran23@gmail.com">
+  <a href="mailto:contacto@leapereira.dev">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -117,6 +117,6 @@ Actualmente me encuentro en búsqueda de nuevos desafíos profesionales mientras
 
 ## 📫 Contacto
 
-- 📧 **Email:** leandro.pereiran23@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/leandro-pereira-nobre/  
-- 🌐 **Portfolio:** https://leandropereira.vercel.app  
+- 📧 **Email:** contacto@leapereira.dev  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/leandropereiranobre/
+- 🌐 **Portfolio:** https://leapereira.dev
